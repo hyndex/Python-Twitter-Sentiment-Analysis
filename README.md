@@ -14,7 +14,7 @@ Requirment
 # Made By 
 
 
-##Chinmoy Bhuyan
+## Chinmoy Bhuyan
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -50,7 +50,7 @@ Requirment
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
-##Snehanshu Phukon
+## Snehanshu Phukon
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -71,8 +71,7 @@ Requirment
 
 
 
-##Jyotisman Goswami
-================
+## Jyotisman Goswami
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
