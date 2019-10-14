@@ -1,6 +1,8 @@
 # Python-Twitter-Sentiment-Analysis
 this is a collage project on the subject of Sentiment analysis with python
 
+[View presentation](https://docs.google.com/presentation/d/1wPGkGAOCtgGjpIaboMI5FWUCR1O7X-N_VHo4B0CNerw/edit?usp=sharing)
+
 # Requirments
 ~~~
 Requirment
